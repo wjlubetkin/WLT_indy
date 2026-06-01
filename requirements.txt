@@ -1,0 +1,7 @@
+git+https://github.com/WildlifeDatasets/wildlife-tools
+torch>=2.0.1
+torchvision>=0.15
+timm>=0.9.2
+transformers>=4.30.2
+pandas>=1.5
+scikit-learn>=1.0.1
